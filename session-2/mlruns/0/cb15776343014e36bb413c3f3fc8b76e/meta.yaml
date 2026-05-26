@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/alejandroospinasantos/Desktop/mlops-and-system-design/session-2/mlruns/0/cb15776343014e36bb413c3f3fc8b76e/artifacts
+end_time: 1779820652255
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: cb15776343014e36bb413c3f3fc8b76e
+run_name: delightful-ox-97
+run_uuid: cb15776343014e36bb413c3f3fc8b76e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1779820652246
+status: 4
+tags: []
+user_id: alejandroospinasantos

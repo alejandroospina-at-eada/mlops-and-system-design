@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/f4b64c2ae3c84b5a8636eafe2236323d/artifacts
+end_time: 1779821663711
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: f4b64c2ae3c84b5a8636eafe2236323d
+run_name: sneaky-bug-988
+run_uuid: f4b64c2ae3c84b5a8636eafe2236323d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1779821660906
+status: 3
+tags: []
+user_id: alejandroospinasantos

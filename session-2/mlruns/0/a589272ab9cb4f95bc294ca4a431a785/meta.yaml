@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/alejandroospinasantos/Desktop/mlops-and-system-design/session-2/mlruns/0/a589272ab9cb4f95bc294ca4a431a785/artifacts
+end_time: 1779820788033
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: a589272ab9cb4f95bc294ca4a431a785
+run_name: abrasive-perch-627
+run_uuid: a589272ab9cb4f95bc294ca4a431a785
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1779820788025
+status: 3
+tags: []
+user_id: alejandroospinasantos
