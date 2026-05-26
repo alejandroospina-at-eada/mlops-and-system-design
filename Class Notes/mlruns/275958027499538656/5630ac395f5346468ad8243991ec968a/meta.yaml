@@ -1,0 +1,16 @@
+artifact_uri: file:///Users/alejandroospinasantos/Desktop/mlops-and-system-design/Class
+  Notes/mlruns/275958027499538656/5630ac395f5346468ad8243991ec968a/artifacts
+end_time: 1778783488178
+entry_point_name: ''
+experiment_id: '275958027499538656'
+lifecycle_stage: active
+run_id: 5630ac395f5346468ad8243991ec968a
+run_name: stately-doe-966
+run_uuid: 5630ac395f5346468ad8243991ec968a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1778783483340
+status: 3
+tags: []
+user_id: alejandroospinasantos
